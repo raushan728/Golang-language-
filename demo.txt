@@ -1,0 +1,3 @@
+Hello Raushan!
+Welcome to Go file handling.
+This is an appended line.
